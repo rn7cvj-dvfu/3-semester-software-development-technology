@@ -1,0 +1,82 @@
+﻿  bomb.cpp
+  character.cpp
+  ComplexNumber.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'character.cpp')
+  
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\ComplexNumber.cpp(3,66): error C2572: 'ComplexNumber::ComplexNumber': redefinition of default argument: parameter 1
+  C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\ComplexNumber.h(16,2):
+  see declaration of 'ComplexNumber::ComplexNumber'
+  
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\ComplexNumber.cpp(62,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\ComplexNumber.cpp(64,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ComplexNumberPacker.cpp
+  enemy.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'enemy.cpp')
+  
+  enemy_type.cpp
+  equippable.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'equippable.cpp')
+  
+  game.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'game.cpp')
+  
+  geometry.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\geometry.cpp(16,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gui.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'gui.cpp')
+  
+  healing_potion.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'healing_potion.cpp')
+  
+  item.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'item.cpp')
+  
+  level.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'level.cpp')
+  
+  main.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'main.cpp')
+  
+  mutable_block.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'mutable_block.cpp')
+  
+  projectile.cpp
+  projectile_modifier.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'projectile_modifier.cpp')
+  
+  scrollable_menu.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'scrollable_menu.cpp')
+  
+  scroll_fire.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'scroll_fire.cpp')
+  
+  spawner.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'spawner.cpp')
+  
+  Generating Code...
+  Compiling...
+  spell.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'spell.cpp')
+  
+  spell_factory.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\Dungeon\Dungeon\scrollable_menu.hpp(6,10): error C1083: Cannot open include file: 'ncurses.h': No such file or directory
+  (compiling source file 'spell_factory.cpp')
+  
+  tile.cpp
+  treasure.cpp
+  Generating Code...
