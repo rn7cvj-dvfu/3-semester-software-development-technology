@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(611,19): warning C4244: 'initializing': conversion from 'ChunkList<int,9,Allocator<T>>::difference_type' to 'int', possible loss of data
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(611,19): warning C4244:         with
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(611,19): warning C4244:         [
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(611,19): warning C4244:             T=int
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(611,19): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(611,19):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\main.cpp(8,6):
+  	see reference to class template instantiation 'ChunkList<int,9,Allocator<T>>' being compiled
+          with
+          [
+              T=int
+          ]
+  	C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(610,12):
+  	while compiling class template member function 'int &ChunkList<int,9,Allocator<T>>::operator [](ChunkList<T,9,Allocator<T>>::difference_type)'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(575,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(575,19):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(571,12):
+  	while compiling class template member function 'int &ChunkList<int,9,Allocator<T>>::at(ChunkList<T,9,Allocator<T>>::size_type)'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(685,3):
+  		see the first reference to 'ChunkList<int,9,Allocator<T>>::at' in 'ChunkList<int,9,Allocator<T>>::begin'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\main.cpp(9,16):
+  		see the first reference to 'ChunkList<int,9,Allocator<T>>::begin' in 'print'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(593,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(593,19):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(592,18):
+  	while compiling class template member function 'const int &ChunkList<int,9,Allocator<T>>::at(ChunkList<T,9,Allocator<T>>::size_type) const'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\ChunkList.h(1074,4):
+  		see the first reference to 'ChunkList<int,9,Allocator<T>>::at' in 'operator =='
+          with
+          [
+              T=int
+          ]
+  		C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\ChunkList\main.cpp(30,11):
+  		see the first reference to 'operator ==' in 'main'
+  
+  ChunkList.vcxproj -> C:\Users\LAPTOP\Projects\DVFU\3-semester-software-development-technology\ChunkList\x64\Debug\ChunkList.exe
